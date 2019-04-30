@@ -1,6 +1,5 @@
-# Linux Command (Requires Root)
 
-*****`Some of the commands here depends on certain distro (Debian/Ubuntu)`*****
+# Linux Command (Requires Root)
 
 ## Package management
 
