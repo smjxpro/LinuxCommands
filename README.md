@@ -2,4 +2,4 @@
 Linux commands and their uses
 
 * [Root](root.md)
-* [Non-root](non-root.md)
+* [No-root](no-root.md)
