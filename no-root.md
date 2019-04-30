@@ -1,6 +1,5 @@
-# Linux Command (Does not Require Root)
 
-*****`Some of the commands here depends on certain distro (Debian/Ubuntu)`*****
+# Linux Command (Does not Require Root)
 
 ## Files and directory
 
