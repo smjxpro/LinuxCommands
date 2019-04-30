@@ -1,9 +1,12 @@
 # Linux Command (Does not Require Root)
 
-*****Some of the commands here depends on certain distro (Debian/Ubuntu)*****
+*****`Some of the commands here depends on certain distro (Debian/Ubuntu)`*****
 
-Commands | Uses
+## Files and directory
+
+Command | Uses
 ---------|---------
+ ```pwd``` | check current working directory
  ```cd path/to``` | updates the apt cache
  ```touch <filename>``` | creates a new file
  ```mkdir <dirname>``` | creates a new directory
@@ -14,3 +17,9 @@ Commands | Uses
  ```mv path/from/file path/to/file``` | moves the file/directory
  ```cp path/from/file path/to/file``` | copies the file/directory
  -| -
+
+## User
+
+Command | Uses
+---------|----------
+  ```whoami``` | view currently logged in username
