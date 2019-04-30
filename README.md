@@ -1,5 +1,7 @@
+
 # LinuxCommands
-This is list of some useful Linux commands with their uses. By saying **_Usesful_**, I mean useful for me off course. Actually it's an effort to write down all the commands and their uses which I encountered, encountering and will encounter on my journey through the Linux world!
+
+This is list of some useful Linux commands with their uses. By saying **_Useful_**, I mean useful for me off course. Actually it's an effort to write down all the commands and their uses which I encountered, encountering and will encounter on my journey through the Linux world!
 Why?
 
 Because I suck at memorizing!
