@@ -21,4 +21,11 @@ Command | Uses
 
 Command | Uses
 ---------|----------
-  ```whoami``` | view currently logged in username
+```whoami``` | view currently logged in username
+
+## Packages
+
+Command | Uses
+---------|----------
+```which <package-name>``` | view the package's executable path
+```man <package-name>``` | view the package's manual 
